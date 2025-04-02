@@ -8,6 +8,6 @@ Kullanılan Teknolojiler
 - Autofac (IoC Container)
 - PostgreSQL / SQL Server
 - Katmanlı Mimari (N-Layer Architecture)
-Kullanılan Teknolojiler
+
 
 
